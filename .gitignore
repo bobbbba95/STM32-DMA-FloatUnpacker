@@ -1,0 +1,14 @@
+# Keil / ARM / GCC build files
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.lst
+*.map
+*.hex
+*.bin
+*.elf
+*.axf
+Debug/
+Release/
